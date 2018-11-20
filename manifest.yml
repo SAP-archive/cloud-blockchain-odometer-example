@@ -1,0 +1,17 @@
+---
+applications:
+- name: car-odometer-multichain
+  memory: 128M
+  disk_quota: 512M
+  buildpack: https://github.com/cloudfoundry/nodejs-buildpack.git
+  command: npm run start
+  host: car-odometer-multichain
+  services:
+  - odometer1
+  env:
+    multichainServiceName: odometer1
+
+# asset_id: SAP000S407W212743
+# cf api https://api.cf.eu10.hana.ondemand.com
+
+    

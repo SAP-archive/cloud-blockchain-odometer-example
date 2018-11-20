@@ -1,0 +1,1689 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Ñëîé_1"
+   data-name="Ñëîé 1"
+   viewBox="0 0 281.17 266.74"
+   version="1.1"
+   sodipodi:docname="hud-1.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata454">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>hud-4</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview452"
+     showgrid="false"
+     inkscape:zoom="2.5024699"
+     inkscape:cx="62.032343"
+     inkscape:cy="133.37"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Ñëîé_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#ffd345;}.cls-2{fill:#b8ff48;}.cls-3,.cls-4,.cls-5,.cls-6,.cls-7,.cls-8{fill:#57ffeb;}.cls-13,.cls-3{opacity:0.2;}.cls-12,.cls-4{opacity:0.4;}.cls-11,.cls-5{opacity:0.6;}.cls-14,.cls-6{opacity:0.1;}.cls-10,.cls-7{opacity:0.8;}.cls-10,.cls-11,.cls-12,.cls-13,.cls-14,.cls-9{fill:#15bdff;}</style>
+  </defs>
+  <title
+     id="title6">hud-4</title>
+  <g
+     data-name="&lt;Group&gt;"
+     id="_Group_35">
+    <g
+       data-name="&lt;Group&gt;"
+       id="_Group_36">
+      <g
+         data-name="&lt;Group&gt;"
+         id="_Group_37">
+        <polygon
+           style="fill:#57ffeb"
+           points="35.76,133.36 35.78,132.74 38.8,132.77 38.78,133.37 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_87" />
+        <polygon
+           style="fill:#57ffeb"
+           points="35.83,130.79 35.85,130.17 38.87,130.27 38.85,130.88 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_88" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 238.76,689.21 v 0.3 0.3 l -3,-0.16 v -0.31 -0.31 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_89" />
+        <polygon
+           style="fill:#57ffeb"
+           points="36.1,125.66 36.14,125.04 39.16,125.29 39.11,125.89 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_90" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 239.17,684.23 c 0,0 0,0.15 0,0.3 v 0.3 l -3,-0.3 v -0.31 c 0,-0.16 0,-0.31 0,-0.31 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_91" />
+        <polygon
+           style="fill:#57ffeb"
+           points="36.61,120.55 36.69,119.93 39.69,120.32 39.61,120.92 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_92" />
+        <polygon
+           style="fill:#57ffeb"
+           points="36.94,118 37.02,117.38 40.01,117.85 39.93,118.44 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_93" />
+        <polygon
+           style="fill:#57ffeb"
+           points="37.37,115.46 37.48,114.85 40.46,115.39 40.35,115.98 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_94" />
+        <polygon
+           style="fill:#57ffeb"
+           points="37.83,112.93 37.94,112.32 40.9,112.93 40.8,113.53 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_95" />
+        <polygon
+           style="fill:#57ffeb"
+           points="38.38,110.42 38.53,109.82 41.47,110.5 41.33,111.09 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_96" />
+        <polygon
+           style="fill:#57ffeb"
+           points="38.97,107.92 39.11,107.31 42.04,108.07 41.9,108.66 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_97" />
+        <polygon
+           style="fill:#57ffeb"
+           points="39.65,105.44 39.82,104.84 42.72,105.67 42.55,106.25 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_98" />
+        <polygon
+           style="fill:#57ffeb"
+           points="40.36,102.97 40.53,102.37 43.41,103.27 43.24,103.85 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_99" />
+        <polygon
+           style="fill:#57ffeb"
+           points="41.15,100.52 41.35,99.93 44.21,100.91 44.02,101.48 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_100" />
+        <polygon
+           style="fill:#57ffeb"
+           points="41.98,98.09 42.18,97.5 45.02,98.55 44.83,99.12 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_101" />
+        <polygon
+           style="fill:#57ffeb"
+           points="42.9,95.69 43.13,95.11 45.94,96.22 45.71,96.78 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_102" />
+        <polygon
+           style="fill:#57ffeb"
+           points="43.85,93.3 44.08,92.72 46.86,93.9 46.64,94.47 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_103" />
+        <polygon
+           style="fill:#57ffeb"
+           points="44.88,90.94 45.14,90.38 47.89,91.63 47.64,92.18 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_104" />
+        <polygon
+           style="fill:#57ffeb"
+           points="45.95,88.61 46.21,88.04 48.92,89.36 48.67,89.91 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_105" />
+        <polygon
+           style="fill:#57ffeb"
+           points="47.09,86.31 47.38,85.75 50.07,87.14 49.79,87.67 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_106" />
+        <polygon
+           style="fill:#57ffeb"
+           points="48.27,84.02 48.56,83.47 51.21,84.92 50.94,85.46 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_107" />
+        <polygon
+           style="fill:#57ffeb"
+           points="49.54,81.78 49.85,81.24 52.46,82.76 52.16,83.28 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_108" />
+        <polygon
+           style="fill:#57ffeb"
+           points="50.83,79.56 51.14,79.02 53.72,80.6 53.41,81.12 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_109" />
+        <polygon
+           style="fill:#57ffeb"
+           points="52.2,77.38 52.53,76.86 55.07,78.5 54.74,79.01 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_110" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 256.23,637.84 c 0,0 -0.09,0.12 -0.17,0.25 l -0.16,0.25 -2.51,-1.69 0.17,-0.26 c 0.08,-0.13 0.17,-0.26 0.17,-0.26 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_111" />
+        <polygon
+           style="fill:#57ffeb"
+           points="55.07,73.12 55.43,72.61 57.88,74.38 57.53,74.87 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_112" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="M 259.15,633.79 259,634 l -0.18,0.25 -2.42,-1.81 0.18,-0.25 c 0.09,-0.13 0.19,-0.25 0.19,-0.25 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_113" />
+        <polygon
+           style="fill:#57ffeb"
+           points="58.14,69 58.53,68.52 60.89,70.4 60.52,70.87 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_114" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 262.26,629.88 -0.2,0.23 -0.19,0.24 -2.33,-1.92 0.19,-0.24 0.2,-0.23 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_115" />
+        <polygon
+           style="fill:#57ffeb"
+           points="61.42,65.04 61.83,64.57 64.1,66.57 63.7,67.02 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_116" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 265.56,626.13 -0.21,0.22 c -0.11,0.11 -0.2,0.22 -0.2,0.22 l -2.23,-2 c 0,0 0.1,-0.12 0.21,-0.23 l 0.21,-0.22 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_117" />
+        <polygon
+           style="fill:#57ffeb"
+           points="64.88,61.24 65.31,60.79 67.48,62.9 67.06,63.33 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_118" />
+        <polygon
+           style="fill:#57ffeb"
+           points="66.66,59.39 67.11,58.96 69.23,61.11 68.79,61.53 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_119" />
+        <polygon
+           style="fill:#57ffeb"
+           points="68.53,57.62 68.98,57.19 71.04,59.4 70.6,59.81 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_120" />
+        <polygon
+           style="fill:#57ffeb"
+           points="70.39,55.85 70.86,55.45 72.88,57.7 72.42,58.1 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_121" />
+        <polygon
+           style="fill:#57ffeb"
+           points="72.34,54.17 72.81,53.77 74.77,56.07 74.31,56.47 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_122" />
+        <polygon
+           style="fill:#57ffeb"
+           points="74.3,52.51 74.79,52.12 76.68,54.47 76.21,54.84 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_123" />
+        <polygon
+           style="fill:#57ffeb"
+           points="76.32,50.92 76.81,50.54 78.65,52.94 78.18,53.31 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_124" />
+        <polygon
+           style="fill:#57ffeb"
+           points="78.36,49.35 78.86,48.99 80.64,51.43 80.15,51.78 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_125" />
+        <polygon
+           style="fill:#57ffeb"
+           points="80.46,47.87 80.96,47.51 82.69,49.99 82.19,50.34 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_126" />
+        <polygon
+           style="fill:#57ffeb"
+           points="82.57,46.4 83.09,46.07 84.75,48.59 84.24,48.91 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_127" />
+        <polygon
+           style="fill:#57ffeb"
+           points="84.73,45.02 85.26,44.69 86.86,47.25 86.35,47.58 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_128" />
+        <polygon
+           style="fill:#57ffeb"
+           points="86.92,43.66 87.45,43.35 88.99,45.95 88.46,46.25 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_129" />
+        <polygon
+           style="fill:#57ffeb"
+           points="89.15,42.38 89.69,42.08 91.16,44.72 90.63,45.02 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_130" />
+        <polygon
+           style="fill:#57ffeb"
+           points="91.39,41.13 91.95,40.85 93.35,43.53 92.81,43.8 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_131" />
+        <polygon
+           style="fill:#57ffeb"
+           points="93.69,39.97 94.24,39.69 95.58,42.4 95.04,42.67 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_132" />
+        <polygon
+           style="fill:#57ffeb"
+           points="95.99,38.83 96.56,38.58 97.83,41.32 97.28,41.56 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_133" />
+        <polygon
+           style="fill:#57ffeb"
+           points="98.34,37.78 98.9,37.52 100.11,40.3 99.56,40.54 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_134" />
+        <polygon
+           style="fill:#57ffeb"
+           points="100.69,36.76 101.27,36.53 102.41,39.33 101.84,39.55 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_135" />
+        <polygon
+           style="fill:#57ffeb"
+           points="103.09,35.82 103.67,35.59 104.73,38.42 104.17,38.64 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_136" />
+        <polygon
+           style="fill:#57ffeb"
+           points="105.5,34.92 106.08,34.72 107.08,37.57 106.51,37.76 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_137" />
+        <polygon
+           style="fill:#57ffeb"
+           points="108.23,34.03 108.82,33.84 109.74,36.72 109.17,36.91 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_138" />
+      </g>
+    </g>
+    <g
+       data-name="&lt;Group&gt;"
+       id="_Group_38">
+      <g
+         data-name="&lt;Group&gt;"
+         id="_Group_39">
+        <polygon
+           style="fill:#57ffeb"
+           points="110.98,33.15 111.58,32.98 112.41,35.88 111.83,36.05 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_139" />
+        <polygon
+           style="fill:#57ffeb"
+           points="113.46,32.45 114.05,32.28 114.82,35.21 114.24,35.37 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_140" />
+        <polygon
+           style="fill:#57ffeb"
+           points="115.95,31.82 116.55,31.68 117.24,34.62 116.66,34.76 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_141" />
+        <polygon
+           style="fill:#57ffeb"
+           points="118.45,31.25 119.06,31.11 119.68,34.07 119.09,34.2 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_142" />
+        <polygon
+           style="fill:#57ffeb"
+           points="120.97,30.74 121.58,30.63 122.13,33.6 121.53,33.71 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_143" />
+        <polygon
+           style="fill:#57ffeb"
+           points="123.5,30.3 124.12,30.19 124.59,33.17 123.99,33.28 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_144" />
+        <polygon
+           style="fill:#57ffeb"
+           points="126.05,29.91 126.66,29.83 127.06,32.82 126.46,32.9 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_145" />
+        <polygon
+           style="fill:#57ffeb"
+           points="128.6,29.59 129.21,29.51 129.54,32.52 128.94,32.59 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_146" />
+        <polygon
+           style="fill:#57ffeb"
+           points="131.15,29.32 131.77,29.28 132.02,32.29 131.42,32.33 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_147" />
+        <polygon
+           style="fill:#57ffeb"
+           points="133.72,29.14 134.34,29.09 134.51,32.11 133.91,32.15 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_148" />
+        <polygon
+           style="fill:#57ffeb"
+           points="136.28,28.99 136.9,28.97 137.01,31.99 136.4,32.01 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_149" />
+        <polygon
+           style="fill:#57ffeb"
+           points="138.85,28.93 139.47,28.92 139.5,31.94 138.9,31.95 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_150" />
+        <polygon
+           style="fill:#57ffeb"
+           points="141.42,28.9 142.04,28.92 142,31.94 141.4,31.92 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_151" />
+        <polygon
+           style="fill:#57ffeb"
+           points="143.99,28.97 144.61,28.99 144.5,32.01 143.89,31.99 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_152" />
+        <polygon
+           style="fill:#57ffeb"
+           points="146.56,29.06 147.18,29.11 146.99,32.12 146.39,32.07 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_153" />
+        <polygon
+           style="fill:#57ffeb"
+           points="149.12,29.26 149.74,29.31 149.48,32.32 148.88,32.27 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_154" />
+        <polygon
+           style="fill:#57ffeb"
+           points="151.69,29.47 152.3,29.55 151.97,32.55 151.37,32.47 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_155" />
+        <polygon
+           style="fill:#57ffeb"
+           points="154.23,29.8 154.85,29.88 154.44,32.87 153.84,32.79 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_156" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 356.72,594.65 -0.3,-0.05 h -0.3 l 0.46,-3 h 0.31 l 0.31,0.06 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_157" />
+        <polygon
+           style="fill:#57ffeb"
+           points="159.31,30.59 159.92,30.7 159.37,33.67 158.78,33.56 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_158" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 361.63,595.57 -0.29,-0.07 -0.3,-0.06 0.61,-3 0.3,0.06 0.3,0.07 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_159" />
+        <polygon
+           style="fill:#57ffeb"
+           points="164.35,31.62 164.95,31.76 164.25,34.7 163.66,34.56 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_160" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 366.48,596.72 -0.29,-0.08 -0.29,-0.07 0.75,-2.93 0.3,0.07 0.3,0.09 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_161" />
+        <polygon
+           style="fill:#57ffeb"
+           points="169.32,32.91 169.92,33.08 169.08,35.98 168.5,35.81 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_162" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="M 371.28,598.12 371,598 l -0.29,-0.08 0.9,-2.89 0.3,0.09 0.29,0.1 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_163" />
+        <polygon
+           style="fill:#57ffeb"
+           points="174.23,34.43 174.82,34.63 173.84,37.49 173.26,37.3 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_164" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 376,599.75 -0.28,-0.11 -0.29,-0.1 1,-2.84 0.29,0.1 0.29,0.12 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_165" />
+        <polygon
+           style="fill:#57ffeb"
+           points="179.06,36.2 179.64,36.43 178.51,39.24 177.95,39.01 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_166" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 380.63,601.61 -0.27,-0.12 -0.28,-0.11 1.18,-2.78 0.29,0.12 0.28,0.13 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_167" />
+        <polygon
+           style="fill:#57ffeb"
+           points="183.79,38.21 184.36,38.47 183.1,41.21 182.55,40.96 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_168" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 385.16,603.7 -0.27,-0.14 -0.27,-0.13 1.31,-2.72 0.28,0.13 0.28,0.14 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_169" />
+        <polygon
+           style="fill:#57ffeb"
+           points="188.42,40.44 188.97,40.73 187.58,43.41 187.04,43.13 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_170" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 389.59,606 -0.26,-0.15 -0.26,-0.14 1.45,-2.65 0.27,0.15 0.27,0.16 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_171" />
+        <polygon
+           style="fill:#57ffeb"
+           points="192.94,42.91 193.47,43.22 191.94,45.83 191.42,45.52 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_172" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 393.9,608.53 -0.25,-0.16 -0.26,-0.16 1.58,-2.58 0.26,0.16 0.26,0.17 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_173" />
+        <polygon
+           style="fill:#57ffeb"
+           points="197.32,45.59 197.84,45.92 196.19,48.45 195.68,48.13 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_174" />
+        <polygon
+           style="fill:#57ffeb"
+           points="199.48,46.98 199.99,47.34 198.27,49.83 197.78,49.48 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_175" />
+        <polygon
+           style="fill:#57ffeb"
+           points="201.57,48.48 202.08,48.84 200.3,51.28 199.81,50.93 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_176" />
+        <polygon
+           style="fill:#57ffeb"
+           points="203.66,49.98 204.15,50.36 202.31,52.77 201.84,52.39 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_177" />
+        <polygon
+           style="fill:#57ffeb"
+           points="205.68,51.57 206.16,51.96 204.27,54.31 203.8,53.94 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_178" />
+        <polygon
+           style="fill:#57ffeb"
+           points="207.69,53.17 208.15,53.58 206.2,55.89 205.75,55.5 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_179" />
+        <polygon
+           style="fill:#57ffeb"
+           points="209.62,54.86 210.09,55.27 208.09,57.53 207.63,57.14 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_180" />
+        <polygon
+           style="fill:#57ffeb"
+           points="211.55,56.56 212,56.99 209.94,59.21 209.5,58.79 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_181" />
+        <polygon
+           style="fill:#57ffeb"
+           points="213.4,58.34 213.85,58.77 211.74,60.94 211.31,60.52 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_182" />
+        <polygon
+           style="fill:#57ffeb"
+           points="215.24,60.14 215.67,60.59 213.51,62.7 213.09,62.26 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_183" />
+        <polygon
+           style="fill:#57ffeb"
+           points="217.01,62.01 217.44,62.46 215.22,64.51 214.81,64.07 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_184" />
+        <polygon
+           style="fill:#57ffeb"
+           points="218.76,63.89 219.17,64.36 216.9,66.36 216.51,65.9 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_185" />
+        <polygon
+           style="fill:#57ffeb"
+           points="220.44,65.84 220.84,66.31 218.53,68.25 218.14,67.8 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_186" />
+        <polygon
+           style="fill:#57ffeb"
+           points="222.09,67.81 222.47,68.3 220.11,70.18 219.74,69.71 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_187" />
+        <polygon
+           style="fill:#57ffeb"
+           points="223.67,69.83 224.06,70.32 221.65,72.15 221.28,71.68 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_188" />
+        <polygon
+           style="fill:#57ffeb"
+           points="225.45,72.15 225.81,72.66 223.35,74.43 223.01,73.94 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_189" />
+      </g>
+    </g>
+    <g
+       data-name="&lt;Group&gt;"
+       id="_Group_40">
+      <g
+         data-name="&lt;Group&gt;"
+         id="_Group_41">
+        <polygon
+           style="fill:#57ffeb"
+           points="227.07,74.49 227.43,75 224.92,76.69 224.57,76.2 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_190" />
+        <polygon
+           style="fill:#57ffeb"
+           points="228.49,76.63 228.82,77.15 226.28,78.78 225.96,78.28 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_191" />
+        <polygon
+           style="fill:#57ffeb"
+           points="229.87,78.8 230.2,79.32 227.62,80.89 227.3,80.38 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_192" />
+        <polygon
+           style="fill:#57ffeb"
+           points="231.19,81 231.5,81.54 228.88,83.05 228.58,82.53 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_193" />
+        <polygon
+           style="fill:#57ffeb"
+           points="232.46,83.24 232.77,83.78 230.11,85.22 229.81,84.69 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_194" />
+        <polygon
+           style="fill:#57ffeb"
+           points="233.66,85.51 233.95,86.06 231.26,87.44 230.98,86.9 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_195" />
+        <polygon
+           style="fill:#57ffeb"
+           points="234.83,87.8 235.11,88.35 232.39,89.66 232.11,89.13 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_196" />
+        <polygon
+           style="fill:#57ffeb"
+           points="235.92,90.13 236.17,90.69 233.42,91.94 233.17,91.39 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_197" />
+        <polygon
+           style="fill:#57ffeb"
+           points="236.97,92.47 237.22,93.04 234.44,94.22 234.19,93.66 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_198" />
+        <polygon
+           style="fill:#57ffeb"
+           points="237.94,94.85 238.17,95.43 235.36,96.54 235.14,95.97 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_199" />
+        <polygon
+           style="fill:#57ffeb"
+           points="238.88,97.25 239.1,97.83 236.26,98.86 236.04,98.3 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_200" />
+        <polygon
+           style="fill:#57ffeb"
+           points="239.73,99.67 239.93,100.26 237.06,101.23 236.87,100.65 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_201" />
+        <polygon
+           style="fill:#57ffeb"
+           points="240.55,102.11 240.74,102.7 237.86,103.59 237.67,103.02 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_202" />
+        <polygon
+           style="fill:#57ffeb"
+           points="241.28,104.58 241.45,105.17 238.54,106 238.38,105.41 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_203" />
+        <polygon
+           style="fill:#57ffeb"
+           points="241.97,107.05 242.14,107.65 239.21,108.4 239.05,107.82 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_204" />
+        <polygon
+           style="fill:#57ffeb"
+           points="242.58,109.55 242.72,110.15 239.78,110.83 239.64,110.24 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_205" />
+        <polygon
+           style="fill:#57ffeb"
+           points="243.15,112.06 243.29,112.66 240.33,113.27 240.2,112.68 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_206" />
+        <polygon
+           style="fill:#57ffeb"
+           points="243.64,114.58 243.75,115.19 240.77,115.72 240.67,115.13 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_207" />
+        <polygon
+           style="fill:#57ffeb"
+           points="244.09,117.11 244.19,117.72 241.21,118.18 241.1,117.59 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_208" />
+        <polygon
+           style="fill:#57ffeb"
+           points="244.45,119.66 244.53,120.27 241.53,120.66 241.46,120.06 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_209" />
+        <polygon
+           style="fill:#57ffeb"
+           points="244.77,122.21 244.84,122.82 241.84,123.13 241.76,122.53 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_210" />
+        <polygon
+           style="fill:#57ffeb"
+           points="245.01,124.77 245.06,125.39 242.04,125.62 242,125.02 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_211" />
+        <polygon
+           style="fill:#57ffeb"
+           points="245.19,127.33 245.24,127.95 242.22,128.11 242.18,127.51 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_212" />
+        <polygon
+           style="fill:#57ffeb"
+           points="245.32,129.9 245.33,130.52 242.31,130.61 242.3,130 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_213" />
+        <polygon
+           style="fill:#57ffeb"
+           points="245.38,132.47 245.39,133.09 242.37,133.1 242.35,132.5 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_214" />
+        <polygon
+           style="fill:#57ffeb"
+           points="245.38,135.03 245.37,135.66 242.34,135.6 242.36,135 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_215" />
+        <polygon
+           style="fill:#57ffeb"
+           points="245.31,137.6 245.29,138.22 242.27,138.1 242.29,137.49 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_216" />
+        <polygon
+           style="fill:#57ffeb"
+           points="245.2,140.17 245.15,140.79 242.14,140.59 242.18,139.99 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_217" />
+        <polygon
+           style="fill:#57ffeb"
+           points="245,142.73 244.95,143.35 241.94,143.08 241.99,142.48 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_218" />
+        <polygon
+           style="fill:#57ffeb"
+           points="244.77,145.29 244.69,145.91 241.69,145.56 241.76,144.96 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_219" />
+        <polygon
+           style="fill:#57ffeb"
+           points="244.44,147.84 244.35,148.46 241.36,148.04 241.44,147.44 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_220" />
+        <polygon
+           style="fill:#57ffeb"
+           points="244.08,150.39 243.97,151 240.99,150.5 241.1,149.91 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_221" />
+        <polygon
+           style="fill:#57ffeb"
+           points="243.62,152.92 243.51,153.53 240.54,152.96 240.65,152.37 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_222" />
+        <polygon
+           style="fill:#57ffeb"
+           points="243.15,155.44 243.01,156.05 240.05,155.41 240.19,154.82 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_223" />
+        <polygon
+           style="fill:#57ffeb"
+           points="242.56,157.95 242.42,158.55 239.48,157.84 239.62,157.25 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_224" />
+        <polygon
+           style="fill:#57ffeb"
+           points="241.97,160.45 241.79,161.05 238.88,160.26 239.04,159.68 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_225" />
+        <polygon
+           style="fill:#57ffeb"
+           points="241.25,162.92 241.08,163.52 238.19,162.66 238.35,162.08 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_226" />
+        <polygon
+           style="fill:#57ffeb"
+           points="240.53,165.39 240.33,165.98 237.46,165.05 237.65,164.48 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_227" />
+        <polygon
+           style="fill:#57ffeb"
+           points="239.7,167.82 239.5,168.41 236.65,167.41 236.85,166.84 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_228" />
+        <polygon
+           style="fill:#57ffeb"
+           points="238.86,170.25 238.63,170.83 235.81,169.76 236.03,169.2 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_229" />
+        <polygon
+           style="fill:#57ffeb"
+           points="237.91,172.64 237.68,173.22 234.88,172.08 235.11,171.52 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_230" />
+        <polygon
+           style="fill:#57ffeb"
+           points="236.95,175.02 236.69,175.59 233.92,174.38 234.17,173.83 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_231" />
+        <polygon
+           style="fill:#57ffeb"
+           points="235.88,177.36 235.63,177.93 232.89,176.65 233.14,176.1 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_232" />
+        <polygon
+           style="fill:#57ffeb"
+           points="234.81,179.7 234.52,180.25 231.81,178.91 232.09,178.37 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_233" />
+        <polygon
+           style="fill:#57ffeb"
+           points="233.63,181.98 233.34,182.53 230.67,181.12 230.94,180.59 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_234" />
+        <polygon
+           style="fill:#57ffeb"
+           points="232.43,184.26 232.12,184.8 229.48,183.32 229.79,182.8 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_235" />
+        <polygon
+           style="fill:#57ffeb"
+           points="231.14,186.48 230.83,187.02 228.23,185.48 228.53,184.96 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_236" />
+        <polygon
+           style="fill:#57ffeb"
+           points="229.84,188.7 229.5,189.22 226.94,187.62 227.27,187.11 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_237" />
+        <polygon
+           style="fill:#57ffeb"
+           points="228.44,190.86 228.11,191.38 225.59,189.71 225.91,189.21 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_238" />
+        <polygon
+           style="fill:#57ffeb"
+           points="227.03,193 226.67,193.51 224.19,191.78 224.54,191.29 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_239" />
+      </g>
+    </g>
+    <g
+       data-name="&lt;Group&gt;"
+       id="_Group_42">
+      <g
+         data-name="&lt;Group&gt;"
+         id="_Group_43">
+        <polygon
+           style="fill:#57ffeb"
+           points="225.28,195.43 224.92,195.94 222.49,194.14 222.85,193.65 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_240" />
+        <polygon
+           style="fill:#57ffeb"
+           points="223.63,197.65 223.24,198.14 220.86,196.28 221.24,195.81 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_241" />
+        <polygon
+           style="fill:#57ffeb"
+           points="222.03,199.67 221.65,200.16 219.31,198.24 219.69,197.77 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_242" />
+        <polygon
+           style="fill:#57ffeb"
+           points="220.39,201.65 219.98,202.11 217.69,200.14 218.09,199.69 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_243" />
+        <polygon
+           style="fill:#57ffeb"
+           points="218.7,203.58 218.29,204.05 216.05,202.02 216.45,201.57 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_244" />
+        <polygon
+           style="fill:#57ffeb"
+           points="216.96,205.48 216.53,205.92 214.34,203.84 214.76,203.41 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_245" />
+        <polygon
+           style="fill:#57ffeb"
+           points="215.18,207.33 214.75,207.78 212.61,205.64 213.03,205.21 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_246" />
+        <polygon
+           style="fill:#57ffeb"
+           points="213.35,209.13 212.9,209.56 210.81,207.37 211.25,206.96 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_247" />
+        <polygon
+           style="fill:#57ffeb"
+           points="211.48,210.9 211.03,211.33 209,209.09 209.44,208.68 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_248" />
+        <polygon
+           style="fill:#57ffeb"
+           points="209.56,212.61 209.09,213.02 207.12,210.73 207.58,210.34 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_249" />
+        <polygon
+           style="fill:#57ffeb"
+           points="207.62,214.29 207.15,214.69 205.23,212.36 205.68,211.97 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_250" />
+        <polygon
+           style="fill:#57ffeb"
+           points="205.62,215.9 205.13,216.28 203.26,213.9 203.74,213.53 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_251" />
+        <polygon
+           style="fill:#57ffeb"
+           points="203.59,217.48 203.1,217.86 201.29,215.44 201.77,215.07 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_252" />
+        <polygon
+           style="fill:#57ffeb"
+           points="201.51,218.99 201,219.35 199.26,216.88 199.75,216.53 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_253" />
+        <polygon
+           style="fill:#57ffeb"
+           points="199.41,220.47 198.9,220.83 197.22,218.32 197.71,217.97 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_254" />
+        <polygon
+           style="fill:#57ffeb"
+           points="197.26,221.88 196.73,222.21 195.11,219.66 195.62,219.34 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_255" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 392.81,782.43 0.26,-0.16 0.25,-0.16 1.57,2.58 -0.26,0.17 -0.26,0.16 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_256" />
+        <polygon
+           style="fill:#57ffeb"
+           points="192.87,224.56 192.33,224.86 190.83,222.24 191.36,221.94 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_257" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 388.47,784.9 0.27,-0.14 0.26,-0.15 1.44,2.65 -0.27,0.15 -0.27,0.15 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_258" />
+        <polygon
+           style="fill:#57ffeb"
+           points="188.35,227.01 187.8,227.29 186.44,224.6 186.97,224.32 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_259" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 384,787.15 0.27,-0.13 0.27,-0.14 1.31,2.72 -0.28,0.14 -0.28,0.13 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_260" />
+        <polygon
+           style="fill:#57ffeb"
+           points="183.72,229.25 183.16,229.5 181.93,226.74 182.48,226.49 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_261" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 379.45,789.18 0.28,-0.11 0.28,-0.12 1.18,2.78 -0.28,0.13 -0.29,0.11 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_262" />
+        <polygon
+           style="fill:#57ffeb"
+           points="178.99,231.25 178.41,231.47 177.32,228.65 177.88,228.44 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_263" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 374.79,791 0.29,-0.1 0.28,-0.11 1,2.84 -0.29,0.11 -0.29,0.1 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_264" />
+        <polygon
+           style="fill:#57ffeb"
+           points="174.16,233.01 173.57,233.21 172.62,230.34 173.19,230.15 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_265" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 370.05,792.55 0.29,-0.08 0.29,-0.1 0.9,2.89 -0.3,0.1 -0.3,0.08 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_266" />
+        <polygon
+           style="fill:#57ffeb"
+           points="169.25,234.54 168.65,234.71 167.84,231.79 168.43,231.63 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_267" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 365.24,793.89 0.29,-0.07 0.29,-0.08 0.75,2.93 -0.3,0.08 -0.3,0.07 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_268" />
+        <polygon
+           style="fill:#57ffeb"
+           points="164.27,235.82 163.67,235.96 163,233.01 163.59,232.87 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_269" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 360.37,795 0.3,-0.06 0.29,-0.07 0.61,3 -0.3,0.07 -0.31,0.06 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_270" />
+        <polygon
+           style="fill:#57ffeb"
+           points="159.24,236.85 158.62,236.96 158.11,233.98 158.7,233.88 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_271" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 355.45,795.84 h 0.3 l 0.3,-0.05 0.46,3 -0.31,0.05 h -0.31 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_272" />
+        <polygon
+           style="fill:#57ffeb"
+           points="154.16,237.64 153.54,237.71 153.17,234.71 153.77,234.64 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_273" />
+        <polygon
+           style="fill:#57ffeb"
+           points="151.6,237.95 150.99,238.03 150.69,235.02 151.29,234.94 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_274" />
+        <polygon
+           style="fill:#57ffeb"
+           points="149.04,238.17 148.43,238.22 148.2,235.2 148.8,235.16 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_275" />
+        <polygon
+           style="fill:#57ffeb"
+           points="146.48,238.36 145.86,238.4 145.71,235.38 146.31,235.34 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_276" />
+        <polygon
+           style="fill:#57ffeb"
+           points="143.91,238.46 143.29,238.47 143.22,235.45 143.82,235.44 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_277" />
+        <polygon
+           style="fill:#57ffeb"
+           points="141.34,238.51 140.72,238.53 140.72,235.5 141.32,235.49 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_278" />
+        <polygon
+           style="fill:#57ffeb"
+           points="138.77,238.5 138.15,238.48 138.22,235.46 138.82,235.47 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_279" />
+        <polygon
+           style="fill:#57ffeb"
+           points="136.21,238.42 135.58,238.4 135.73,235.39 136.33,235.4 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_280" />
+        <polygon
+           style="fill:#57ffeb"
+           points="133.64,238.29 133.02,238.24 133.23,235.22 133.84,235.27 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_281" />
+        <polygon
+           style="fill:#57ffeb"
+           points="131.08,238.08 130.46,238.03 130.75,235.03 131.35,235.07 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_282" />
+        <polygon
+           style="fill:#57ffeb"
+           points="128.52,237.83 127.9,237.75 128.26,234.75 128.86,234.83 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_283" />
+        <polygon
+           style="fill:#57ffeb"
+           points="125.97,237.5 125.35,237.42 125.79,234.43 126.39,234.5 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_284" />
+        <polygon
+           style="fill:#57ffeb"
+           points="123.43,237.12 122.82,237.01 123.32,234.03 123.92,234.14 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_285" />
+        <polygon
+           style="fill:#57ffeb"
+           points="120.9,236.66 120.29,236.55 120.87,233.59 121.46,233.69 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_286" />
+        <polygon
+           style="fill:#57ffeb"
+           points="118.38,236.16 117.77,236.02 118.43,233.07 119.01,233.21 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_287" />
+        <polygon
+           style="fill:#57ffeb"
+           points="115.87,235.58 115.27,235.43 116,232.5 116.58,232.64 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_288" />
+        <polygon
+           style="fill:#57ffeb"
+           points="113.38,234.96 112.78,234.78 113.58,231.87 114.16,232.04 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_289" />
+        <polygon
+           style="fill:#57ffeb"
+           points="110.91,234.25 110.31,234.07 111.18,231.18 111.76,231.35 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_290" />
+        <polygon
+           style="fill:#57ffeb"
+           points="108.22,233.41 107.64,233.21 108.58,230.34 109.15,230.53 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_291" />
+      </g>
+    </g>
+    <g
+       data-name="&lt;Group&gt;"
+       id="_Group_44">
+      <g
+         data-name="&lt;Group&gt;"
+         id="_Group_45">
+        <polygon
+           style="fill:#57ffeb"
+           points="105.42,232.47 104.84,232.27 105.87,229.43 106.44,229.62 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_292" />
+        <polygon
+           style="fill:#57ffeb"
+           points="103.02,231.58 102.44,231.35 103.54,228.53 104.1,228.76 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_293" />
+        <polygon
+           style="fill:#57ffeb"
+           points="100.63,230.63 100.05,230.4 101.22,227.61 101.78,227.83 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_294" />
+        <polygon
+           style="fill:#57ffeb"
+           points="98.26,229.62 97.7,229.36 98.94,226.6 99.48,226.85 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_295" />
+        <polygon
+           style="fill:#57ffeb"
+           points="95.92,228.55 95.36,228.29 96.66,225.57 97.21,225.82 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_296" />
+        <polygon
+           style="fill:#57ffeb"
+           points="93.61,227.42 93.06,227.14 94.43,224.45 94.97,224.72 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_297" />
+        <polygon
+           style="fill:#57ffeb"
+           points="91.33,226.24 90.78,225.96 92.21,223.3 92.75,223.58 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_298" />
+        <polygon
+           style="fill:#57ffeb"
+           points="89.08,225 88.54,224.69 90.04,222.07 90.56,222.37 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_299" />
+        <polygon
+           style="fill:#57ffeb"
+           points="86.85,223.72 86.31,223.4 87.88,220.82 88.4,221.12 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_300" />
+        <polygon
+           style="fill:#57ffeb"
+           points="84.67,222.36 84.14,222.03 85.77,219.48 86.28,219.81 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_301" />
+        <polygon
+           style="fill:#57ffeb"
+           points="82.51,220.97 81.98,220.63 83.68,218.13 84.18,218.46 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_302" />
+        <polygon
+           style="fill:#57ffeb"
+           points="80.39,219.51 79.89,219.15 81.64,216.69 82.13,217.04 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_303" />
+        <polygon
+           style="fill:#57ffeb"
+           points="78.3,218.01 77.8,217.65 79.61,215.23 80.1,215.59 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_304" />
+        <polygon
+           style="fill:#57ffeb"
+           points="76.26,216.45 75.77,216.07 77.64,213.69 78.11,214.07 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_305" />
+        <polygon
+           style="fill:#57ffeb"
+           points="74.24,214.86 73.76,214.47 75.68,212.15 76.16,212.52 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_306" />
+        <polygon
+           style="fill:#57ffeb"
+           points="72.28,213.2 71.81,212.79 73.8,210.51 74.25,210.91 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_307" />
+        <polygon
+           style="fill:#57ffeb"
+           points="70.34,211.51 69.88,211.1 71.92,208.87 72.37,209.27 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_308" />
+        <polygon
+           style="fill:#57ffeb"
+           points="68.47,209.75 68.02,209.32 70.11,207.14 70.55,207.56 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_309" />
+        <polygon
+           style="fill:#57ffeb"
+           points="66.61,207.97 66.17,207.54 68.31,205.41 68.75,205.83 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_310" />
+        <polygon
+           style="fill:#57ffeb"
+           points="64.83,206.12 64.4,205.67 66.6,203.6 67.01,204.03 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_311" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 264.69,763.21 c 0,0 0.1,0.12 0.2,0.22 l 0.21,0.22 -2.23,2 -0.21,-0.23 c -0.11,-0.11 -0.21,-0.23 -0.21,-0.23 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_312" />
+        <polygon
+           style="fill:#57ffeb"
+           points="61.37,202.32 60.96,201.85 63.26,199.89 63.65,200.34 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_313" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 261.44,759.42 0.19,0.24 0.2,0.23 -2.33,1.92 -0.2,-0.24 -0.19,-0.24 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_314" />
+        <polygon
+           style="fill:#57ffeb"
+           points="58.1,198.36 57.71,197.87 60.1,196.02 60.47,196.49 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_315" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 258.39,755.47 0.17,0.25 c 0.09,0.12 0.18,0.24 0.18,0.24 l -2.42,1.81 c 0,0 -0.1,-0.12 -0.19,-0.25 l -0.18,-0.25 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_316" />
+        <polygon
+           style="fill:#57ffeb"
+           points="55.02,194.24 54.66,193.73 57.14,192 57.49,192.49 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_317" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 255.52,751.38 0.16,0.25 c 0.08,0.13 0.17,0.25 0.17,0.25 l -2.51,1.69 c 0,0 -0.09,-0.13 -0.17,-0.26 L 253,753.05 Z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_318" />
+        <polygon
+           style="fill:#57ffeb"
+           points="52.16,189.97 51.82,189.45 54.38,187.84 54.7,188.35 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_319" />
+        <polygon
+           style="fill:#57ffeb"
+           points="50.77,187.8 50.47,187.26 53.06,185.72 53.36,186.24 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_320" />
+        <polygon
+           style="fill:#57ffeb"
+           points="49.5,185.57 49.19,185.03 51.83,183.55 52.12,184.07 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_321" />
+        <polygon
+           style="fill:#57ffeb"
+           points="48.23,183.34 47.95,182.78 50.62,181.37 50.89,181.9 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_322" />
+        <polygon
+           style="fill:#57ffeb"
+           points="47.06,181.04 46.78,180.49 49.48,179.14 49.76,179.68 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_323" />
+        <polygon
+           style="fill:#57ffeb"
+           points="45.9,178.75 45.65,178.18 48.38,176.9 48.63,177.45 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_324" />
+        <polygon
+           style="fill:#57ffeb"
+           points="44.85,176.4 44.6,175.84 47.36,174.62 47.61,175.17 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_325" />
+        <polygon
+           style="fill:#57ffeb"
+           points="43.81,174.06 43.58,173.48 46.38,172.33 46.6,172.89 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_326" />
+        <polygon
+           style="fill:#57ffeb"
+           points="42.87,171.66 42.65,171.08 45.47,170 45.69,170.56 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_327" />
+        <polygon
+           style="fill:#57ffeb"
+           points="41.95,169.26 41.75,168.67 44.6,167.66 44.79,168.24 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_328" />
+        <polygon
+           style="fill:#57ffeb"
+           points="41.13,166.82 40.93,166.23 43.8,165.3 44,165.87 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_329" />
+        <polygon
+           style="fill:#57ffeb"
+           points="40.32,164.38 40.15,163.78 43.05,162.92 43.21,163.5 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_330" />
+        <polygon
+           style="fill:#57ffeb"
+           points="39.63,161.91 39.46,161.31 42.37,160.51 42.54,161.1 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_331" />
+        <polygon
+           style="fill:#57ffeb"
+           points="38.94,159.43 38.8,158.82 41.74,158.1 41.87,158.69 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_332" />
+        <polygon
+           style="fill:#57ffeb"
+           points="38.37,156.92 38.23,156.32 41.18,155.67 41.32,156.26 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_333" />
+        <polygon
+           style="fill:#57ffeb"
+           points="37.8,154.41 37.7,153.8 40.66,153.23 40.77,153.82 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_334" />
+        <polygon
+           style="fill:#57ffeb"
+           points="37.36,151.88 37.25,151.27 40.23,150.77 40.34,151.36 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_335" />
+        <polygon
+           style="fill:#57ffeb"
+           points="36.92,149.35 36.84,148.73 39.83,148.3 39.91,148.9 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_336" />
+        <polygon
+           style="fill:#57ffeb"
+           points="36.6,146.8 36.52,146.18 39.52,145.83 39.6,146.43 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_337" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 239,704.78 v 0.3 c 0,0.15 0,0.3 0,0.3 l -3,0.3 c 0,0 0,-0.15 0,-0.31 v -0.31 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_338" />
+        <polygon
+           style="fill:#57ffeb"
+           points="36.09,141.68 36.04,141.06 39.06,140.85 39.1,141.46 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_339" />
+        <path
+           style="fill:#57ffeb"
+           inkscape:connector-curvature="0"
+           transform="translate(-199.8,-561.43)"
+           d="m 238.69,699.8 v 0.3 0.3 l -3,0.15 v -0.31 -0.31 z"
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_340" />
+        <polygon
+           style="fill:#57ffeb"
+           points="35.83,136.55 35.81,135.93 38.84,135.87 38.85,136.47 "
+           class="cls-8"
+           data-name="&lt;Path&gt;"
+           id="_Path_341" />
+      </g>
+    </g>
+  </g>
+</svg>

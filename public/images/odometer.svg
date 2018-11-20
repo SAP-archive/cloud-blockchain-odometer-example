@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900" height="900" version="1.1" viewBox="0 0 900.00002 900.00002" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Asset 1</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style>.cls-1{fill:#ab218e;}.cls-2,.cls-3,.cls-4{fill:#f6a81c;}.cls-3{opacity:0.7;}.cls-4{opacity:0.4;}.cls-5{fill:#231f20;}</style>
+ </defs>
+ <title>Asset 1</title>
+ <g id="color_band" transform="matrix(5.0494 0 0 5.0494 1.4252e-5 .20203)" data-name="color band">
+  <path class="cls-1" d="m89.1 0a89.1 89.1 0 1 0 89.1 89.1 89.1 89.1 0 0 0 -89.1 -89.1zm0 165.64a77.17 77.17 0 1 1 77.17 -77.17 77.17 77.17 0 0 1 -77.16 77.17z" fill="#ab218e"/>
+ </g>
+ <g id="_100_band" transform="matrix(5.0494 0 0 5.0494 1.4252e-5 .20203)" data-name="100% band">
+  <path class="cls-2" d="m89.11 11.3a77.07 77.07 0 0 1 63.45 33.26h13.7a89.08 89.08 0 0 0 -154.31 0h13.71a77.07 77.07 0 0 1 63.45 -33.26z" fill="#f6a81c"/>
+ </g>
+ <g id="_70_band" transform="matrix(5.0494 0 0 5.0494 1.4252e-5 .20203)" fill="#f6a81c" data-name="70% band">
+  <path class="cls-3" d="m166.25 44.46h-13.79a77 77 0 0 1 13.9 44.21v0.35h11.84a88.64 88.64 0 0 0 -11.95 -44.56z" opacity=".7"/>
+  <path class="cls-3" d="m11.67 88.66a77 77 0 0 1 13.9 -44.21h-13.57a88.65 88.65 0 0 0 -12 44.55h11.68c0-0.1-0.01-0.22-0.01-0.34z" opacity=".7"/>
+ </g>
+ <g id="_40_band" transform="matrix(5.0494 0 0 5.0494 1.4252e-5 .20203)" fill="#f6a81c" data-name="40% band">
+  <path class="cls-4" d="m12 89.1h-12a88.65 88.65 0 0 0 12 44.56h14.58a76.78 76.78 0 0 1 -14.58 -44.56z" opacity=".4"/>
+  <path class="cls-4" d="m166.26 89.11a76.78 76.78 0 0 1 -14.62 44.56h14.6a88.63 88.63 0 0 0 12 -44.56z" opacity=".4"/>
+ </g>
+ <g fill="#231f20" stroke-width="5.0494">
+  <path class="cls-5" d="m450.35 837.03a389.71 389.71 0 1 1 389.71 -389.71 390.16 390.16 0 0 1 -389.71 389.71zm0-759.22a369.51 369.51 0 1 0 369.51 369.51 369.92 369.92 0 0 0 -369.51 -369.51z"/>
+  <path class="cls-5" d="m449.9 778.31a329.72 329.72 0 1 1 329.72 -329.72 330.08 330.08 0 0 1 -329.72 329.72zm0-639.25a309.53 309.53 0 1 0 309.53 309.53 309.88 309.88 0 0 0 -309.53 -309.53z"/>
+  <path class="cls-5" d="m635.21 530.18h-370.62v-163.2h370.62zm-350.43-20.197h330.23v-122.8h-330.23z"/>
+ </g>
+ <g transform="matrix(.7397 0 0 .7397 117.09 221.9)" fill="#231f20" stroke-width="5.0494">
+  <rect class="cls-5" x="227.32" y="493.58" width="26.509" height="80.79"/>
+  <rect class="cls-5" x="372.49" y="493.58" width="19.895" height="80.79"/>
+  <rect class="cls-5" x="338.76" y="493.58" width="13.28" height="80.79"/>
+  <rect class="cls-5" x="305.49" y="493.58" width="13.28" height="80.79"/>
+  <rect class="cls-5" x="272.21" y="493.58" width="13.28" height="80.79"/>
+  <rect class="cls-5" x="199.4" y="493.58" width="13.28" height="80.79"/>
+  <rect class="cls-5" x="642.28" y="493.58" width="26.509" height="80.79"/>
+  <rect class="cls-5" x="687.17" y="493.58" width="13.28" height="80.79"/>
+  <rect class="cls-5" x="614.36" y="493.58" width="13.28" height="80.79"/>
+  <rect class="cls-5" x="435.05" y="493.58" width="26.509" height="80.79"/>
+  <rect class="cls-5" x="580.22" y="493.58" width="19.895" height="80.79"/>
+  <rect class="cls-5" x="546.49" y="493.58" width="13.28" height="80.79"/>
+  <rect class="cls-5" x="513.22" y="493.58" width="13.28" height="80.79"/>
+  <rect class="cls-5" x="479.94" y="493.58" width="13.28" height="80.79"/>
+  <rect class="cls-5" x="407.13" y="493.58" width="13.28" height="80.79"/>
+ </g>
+</svg>

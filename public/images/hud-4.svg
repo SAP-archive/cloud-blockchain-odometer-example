@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Ñëîé_1"
+   data-name="Ñëîé 1"
+   viewBox="0 0 281.17 266.74"
+   version="1.1"
+   sodipodi:docname="hud-3.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata454">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>hud-4</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview452"
+     showgrid="false"
+     inkscape:zoom="2.5024699"
+     inkscape:cx="62.032343"
+     inkscape:cy="133.37"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Ñëîé_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#ffd345;}.cls-2{fill:#b8ff48;}.cls-3,.cls-4,.cls-5,.cls-6,.cls-7,.cls-8{fill:#57ffeb;}.cls-13,.cls-3{opacity:0.2;}.cls-12,.cls-4{opacity:0.4;}.cls-11,.cls-5{opacity:0.6;}.cls-14,.cls-6{opacity:0.1;}.cls-10,.cls-7{opacity:0.8;}.cls-10,.cls-11,.cls-12,.cls-13,.cls-14,.cls-9{fill:#15bdff;}</style>
+  </defs>
+  <title
+     id="title6">hud-4</title>
+  <path
+     style="fill:#ffd345"
+     inkscape:connector-curvature="0"
+     d="m 281.2,145.82 h -7.25 l -8.57,-11.76 8.57,-11.76 h 7.25 z m -6.76,-1 h 5.76 v -21.55 h -5.79 l -7.86,10.79 z"
+     class="cls-1"
+     data-name="&lt;Compound Path&gt;"
+     id="_Compound_Path_" />
+  <path
+     style="fill:#ffd345"
+     inkscape:connector-curvature="0"
+     d="m 0,122.3 h 7.25 l 8.57,11.76 -8.57,11.76 H 0 Z m 6.76,1 H 0.97 v 21.59 h 5.79 l 7.86,-10.79 z"
+     class="cls-1"
+     data-name="&lt;Compound Path&gt;"
+     id="_Compound_Path_2" />
+  <path
+     style="fill:#ffd345;stroke-width:1.3894341"
+     inkscape:connector-curvature="0"
+     d="M 227.49336,132.8373 H 204.83169 L 184.35143,111.78737 H 96.817077 L 76.336818,132.8373 H 54.522702 A 1.222702,1.222702 0 0 0 53.3,134.06 v 0 a 1.222702,1.222702 0 0 0 1.222702,1.2227 h 21.814116 l 20.480259,21.04993 h 87.534353 l 20.48026,-21.04993 h 22.66167 a 1.222702,1.222702 0 0 0 1.2227,-1.2227 v 0 a 1.222702,1.222702 0 0 0 -1.2227,-1.2227 z m -44.18401,21.04992 H 97.91473 L 78.629384,134.07389 97.91473,114.26056 h 85.39462 l 19.28535,19.81333 z"
+     class="cls-1"
+     data-name="&lt;Compound Path&gt;"
+     id="_Compound_Path_4" />
+  <rect
+     style="fill:#ffd345"
+     x="0"
+     height="0.58999997"
+     width="73.139999"
+     y="133.75999"
+     class="cls-1"
+     data-name="&lt;Path&gt;"
+     id="_Path_342" />
+  <rect
+     style="fill:#ffd345"
+     height="0.58999997"
+     width="73.139999"
+     y="133.75999"
+     x="208.03"
+     class="cls-1"
+     data-name="&lt;Path&gt;"
+     id="_Path_343" />
+</svg>
