@@ -1,14 +1,14 @@
-# maas-odometer
+# MaaS Odometer
 
 Deploying an Odometer Application using MultiChain Service
 
-Description:
+## Description
 
 In this hands-on example you will use the MultiChain service to develop and deploy a basic odometer application. This showcases how the service can be used to prevent mileage fraud in vehicles, with the blockchain rejecting any values lower than the previously entered mileage. 
 
 This use case is particularly useful when buying and selling vehicles, ensuring that no attempts have been made to dial back the mileage travelled to date.
 
-Requirements:
+## Requirements
 
 To deploy this application on the MultiChain service you should have the following:
 - A familiarity with creating MultiChain service instances. 
@@ -16,7 +16,7 @@ To deploy this application on the MultiChain service you should have the followi
 - Downloaded and installed the Cloud Foundry command-line tool.
 - Have access to HTTP client software or library of your programming language of choice. In our example we use Postman, but should stress that this is not officially affiliated with SAP or the MultiChain Service.Have a good understanding of JSON-RPC commands and knowledge of using the command-line tool.
 
-Download and Installation:
+## Download and Installation
 
 To download and deploy the MultiChain application, follow the below steps:
 
@@ -57,11 +57,11 @@ Host: maas-proxy.cfapps.sap.hana.ondemand.com/<instance ID>/rpc
 (HEADER) apikey: <your API Key>
 (BODY) {"method": "create", "params": ["stream", "SAP000S407W212743", true] }
 
-Support:
+## Support
 
 For Support please refer to the following article: https://help.sap.com/viewer/d83cdf0945f540218a64add9265835af/BLOCKCHAIN/en-US
 
-License:
+## License
 
 Copyright (c) 2018 SAP SE or an SAP affiliate company. All rights reserved.
 
