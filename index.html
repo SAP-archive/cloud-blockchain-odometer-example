@@ -33,8 +33,12 @@
                     <div class="panel-content">              
                         <label id="write-asset-id-label">Vehicle Identification Number</label>
                         <input readonly type="text" id="write-asset-id" value="SAP000S407W212743">  
-                        <label id="write-asset-value-label">Overall Distance in Miles</label>
-                        <input type="text" id="write-asset-value" value="">  
+                        <label id="write-asset-value-label">Overall Distance</label>
+                        <input type="text" id="write-asset-value" value="" style="width: 65%">
+                        <select id="write-asset-unit" style="width: 33%">
+                            <option value="km">km</option>
+                            <option value="mi">mi</option>
+                        </select>
                         <div class="write-message">
                             <div id="reject" class="reject">
                                 <span>This value is not allowed on the blockchain</span>
@@ -55,8 +59,15 @@
                         <label id="read-asset-id-label">Vehicle Identification Number</label>
                         <input readonly type="text" id="read-asset-id" value="SAP000S407W212743">  
                         <button type="button" id="read-asset"><span class="fa fa-plus-circle"></span><span>Read</span></button>                           
-                        <label id="read-asset-value-label">Overall Distance in Miles</label>
+                        <label id="read-asset-value-label">Overall Distance</label>
                         <input readonly type="text" id="read-asset-value">                 
+                    </div>
+                </div>
+                <div id="history-panel" class="panel">
+                    <h3 class="panel-header"><span class="fa fa-angle-down"></span><span class="fa fa-angle-right"></span><span>History</span></h3>
+                    <div class="panel-content">              
+                        <button type="button" id="load-history"><span class="fa fa-refresh"></span><span>Load History</span></button>
+                        <div id="history-items"></div>
                     </div>
                 </div>
             </div>                    

@@ -1,13 +1,12 @@
 {
-  "name": "car-odometer-multichain",
+  "name": "blockchain-car-odometer",
   "version": "1.0.0",
-  "description": "A demonstration Node.js web application on Multichain.",
+  "description": "A demonstration Node.js web application on Blockchain.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "async": "0.9.*",
     "cfenv": "^1.0.4",
     "express": "4.14.*",
     "request": "^2.81.0",

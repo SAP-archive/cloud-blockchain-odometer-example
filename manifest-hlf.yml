@@ -1,0 +1,13 @@
+---
+applications:
+  - name: hyperledger-fabric-car-odometer
+    memory: 128M
+    disk_quota: 512M
+    buildpacks: 
+      - https://github.com/cloudfoundry/nodejs-buildpack.git
+    command: npm run start
+    services:
+      - hlf-odometer
+    env:
+      BC_TECHNOLOGY_SERVICE_NAME: hlf-odometer
+      HLF_CHAINCODE_ID: com-sap-icn-blockchain-example-odometer

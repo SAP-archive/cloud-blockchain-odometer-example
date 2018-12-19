@@ -1,0 +1,13 @@
+---
+applications:
+  - name: multichain-car-odometer
+    memory: 128M
+    disk_quota: 512M
+    buildpacks: 
+      - https://github.com/cloudfoundry/nodejs-buildpack.git
+    command: npm run start
+    services:
+      - mc-odometer
+    env:
+      BC_TECHNOLOGY_SERVICE_NAME: mc-odometer
+      MC_STREAM_ID: SAP000S407W212743
