@@ -811,6 +811,37 @@ html.menu-open .sidebar {
     height: 11.5rem;    
 }
 
+#history-panel.selected .panel-content {
+    height: 20rem;
+}
+
+#history-panel #history-items {
+    width: 100%;
+    margin-top: 20px;
+    overflow: scroll;
+    height: 15rem;
+}
+
+#history-panel #history-items .item {
+    width: 100%;
+    height: 3rem;
+    border-bottom: 1px solid #4f6277;
+    padding: 10px;
+}
+
+#history-panel #history-items .item span:first-of-type  {
+    color: #cae4fb;
+    font-size: 14px;
+    display: block;
+}
+
+#history-panel #history-items .item span:last-of-type  {
+    color: #cae4fb;
+    font-size: 18px;
+    display: block;
+    text-align: right;
+}
+
 .panel input[type="text"][readonly] {
     color: #cae4fb;
 }

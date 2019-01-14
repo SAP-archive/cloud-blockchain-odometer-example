@@ -17,11 +17,11 @@ $(document).on('ready', function () {
     if(odometer.length && $.isNumeric(odometer)){
         localStorage["sap-odometer"] = parseInt(odometer)+"";
         window.location = window.location.href.split("?")[0];     
-    }    
+    }
     socket.on('message', function (message) {
         var obj = JSON.parse(message);   
         if (obj.action === 'finished') {             
-            enableAllButtons(obj.origin, obj.successfull, obj.message, obj.asset_value);
+            enableAllButtons(obj.origin, obj.successfull, obj.message, obj.asset_value || obj.history, obj.asset_unit);
         }
     });    
     
@@ -42,21 +42,22 @@ $(document).on('ready', function () {
         }
     }); 
     
-	$('#nav-icon').click(function(){
-		$("html").toggleClass('menu-open');
-	});         
+    $('#nav-icon').click(function(){
+        $("html").toggleClass('menu-open');
+    });         
 
-	$('#write-asset').click(function () {  
+    $('#write-asset').click(function () {  
         var asset_id = $('input#write-asset-id').val();
-        var asset_value = $('input#write-asset-value').val();  
-        asset_value = asset_value.split(' ').join('').split('mi').join('').split('Miles').join('');
+        var asset_value = $('input#write-asset-value').val();
+        var asset_unit = $('select#write-asset-unit').val();
         if($.isNumeric(asset_value)) {
             asset_value = parseInt(asset_value);
             disableAllButtons('Write to the blockchain');
             socket.send(JSON.stringify({
                 action: 'write',
                 asset_id: asset_id,
-                asset_value: asset_value
+                asset_value: asset_value,
+                asset_unit: asset_unit
             }));
         }
         else {
@@ -65,20 +66,30 @@ $(document).on('ready', function () {
             $('#alert span').text('Please enter a numeric value');              
             $('#alert').fadeIn(300).delay(1000).fadeOut(300, function(){$('label#write-asset-value-label').removeClass("panel-alert");});
         }
-		return false;
-	});     
+        return false;
+    });     
 
-	$('#read-asset').click(function () {  
+    $('#read-asset').click(function () {  
         var asset_id = $('input#read-asset-id').val();      
         disableAllButtons('Read from the blockchain');
         socket.send(JSON.stringify({
-			action: 'read',
-			asset_id: asset_id
-		}));
-		return false;
-    });    
+            action: 'read',
+            asset_id: asset_id
+        }));
+        return false;
+    });
+    
+    $('#load-history').click(function () {
+        var asset_id = $('input#read-asset-id').val();
+        disableAllButtons('Load history from the blockchain');
+        socket.send(JSON.stringify({
+            action: 'history',
+            asset_id: asset_id
+        }));
+        return false;
+    });
 
-    function enableAllButtons(action, successfull, message, value) {
+    function enableAllButtons(action, successfull, message, value, unit) {
         $('#alert').delay(300).fadeOut(300, function(){
             $('.panel button, .panel input[type="text"], .panel select, .panel label').removeAttr('disabled');
             if(action=="write"){
@@ -108,7 +119,16 @@ $(document).on('ready', function () {
                 }
             }
             else if(action=="read" && successfull) {
-                $('input#read-asset-value').val(parseInt(value) + " mi");                 
+                var val = parseInt(value) + " " + unit;
+                $('input#read-asset-value').val(val);  
+                $('input#odometer-value').val(val);  
+            }
+            else if(action=="history" && successfull) {
+                var historyItemsDiv = $('#history-panel #history-items');
+                historyItemsDiv.empty();
+                value.forEach(function(item) {
+                    historyItemsDiv.append("<div class='item'><span>" + item.timestamp + "</span><span>" + item.kilometre + " km</span></div>");
+                });
             }
         }); 
     }
@@ -134,14 +154,13 @@ app.config(function ($routeProvider, $locationProvider) {
 app.controller('ASSETS-CONTAINER', function ($scope, $route, $location) {
     angular.element(document).ready(function () {                             
         socket.on('message', function (message) {
-            var obj = JSON.parse(message);  
+            var obj = JSON.parse(message);
             if (obj.action === 'finished-loading') {
                 $('html').addClass('finished');
                 var value = "0";
                 if($.isNumeric(localStorage["sap-odometer"])){
                     value = parseInt(localStorage["sap-odometer"]);
                 }
-                value = value + " mi";
                 $scope.asset_value = value;
                 $scope.$apply();
                 $('input#write-asset-value').val(value);

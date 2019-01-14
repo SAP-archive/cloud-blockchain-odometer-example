@@ -8,7 +8,7 @@ var winston = require("winston");
 var BlockchainFactory = require("./blockchain-factory.js");
 var cfenv = require("cfenv");
 
-var logger = new (winston.Logger)({
+var logger = (winston.createLogger)({
     level: "debug",
     transports: [
         new (winston.transports.Console)({ colorize: true }),
@@ -22,6 +22,7 @@ var port = "3010";
 var serviceCredentials = appEnv.getServiceCreds(process.env.BC_TECHNOLOGY_SERVICE_NAME);
 BlockchainFactory(serviceCredentials, logger, function (blockchain) {
     io.on("connection", function (socket) {
+        socket.removeAllListeners();
         logger.info("[socket-io] connected");
         socket.on("message", function (message) {
             var options = {};

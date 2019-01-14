@@ -54,23 +54,36 @@ module.exports = function (creds, opts, logger, cb) {
                             return cb(err);
                         }
 
-                        if (res.statusCode === 201 || res.statusCode === 409) {
-                            chaincodeId = body.id;
-                            request.post({
-                                uri: _getChaincodeURL() + "/SAP000S407W212743",
-                                json: true,
-                                headers: {
-                                    Authorization: "Bearer " + token
-                                },
-                                formData: {
-                                    organization: "sap"
-                                }
-                            }, function (err, res, body) {
-                                return cb(null);
-                            });
-                        }
+                        chaincodeId = body.id;
+                        request.post({
+                            uri: _getChaincodeURL(chaincodeId) + "/SAP000S407W212743",
+                            json: true,
+                            headers: {
+                                Authorization: "Bearer " + token
+                            },
+                            formData: {
+                                organization: "sap"
+                            }
+                        }, function (err, res, body) {
+                            return cb(null);
+                        });
 
                         return cb(new Error("chaincode deploy failed: " + JSON.stringify(body)));
+                    });
+                } else {
+                    // ensure that VIN is created
+                    request.post({
+                        uri: _getChaincodeURL(chaincodeId) + "/SAP000S407W212743",
+                        json: true,
+                        headers: {
+                            Authorization: "Bearer " + token
+                        },
+                        formData: {
+                            organization: "sap"
+                        }
+                    }, function (err, res, body) {
+                        logger.info("VIN SAP000S407W212743 created");
+                        return cb(null);
                     });
                 }
             });
@@ -81,7 +94,7 @@ module.exports = function (creds, opts, logger, cb) {
     
     function _getAccessToken(cb) {
         if (accessToken && isValid(accessToken)) {
-            cb(null, accessToken);
+            return cb(null, accessToken);
         }
 
         // get new access token
@@ -100,10 +113,10 @@ module.exports = function (creds, opts, logger, cb) {
                 return cb(err);
             }
             if (res.statusCode !== 200) {
-                cb(new Error("Could not retreive access token"));
+                return cb(new Error("Could not retreive access token"));
             }
             accessToken = body.access_token;
-            cb(null, accessToken);
+            return cb(null, accessToken);
         });
     }
 
@@ -164,10 +177,10 @@ module.exports = function (creds, opts, logger, cb) {
                     }
                 }, function (err, res, body){
                     if (err) {
-                        cb(err);
+                        return cb(err);
                     }
 
-                    cb(null, body || "0");
+                    return cb(null, body || "0");
                 });
             });
         };
@@ -185,15 +198,15 @@ module.exports = function (creds, opts, logger, cb) {
                     }
                 }, function (err, res, body) {
                     if (err) {
-                        cb(err);
+                        return cb(err);
                     }
 
-                    cb(null, body.history.reverse() || []);
+                    return cb(null, body.history.reverse() || []);
                 });
             });
         }
         
-        cb(hyperledgerFabric);
+        return cb(hyperledgerFabric);
     });
 };
 
